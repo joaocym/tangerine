@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+/build
+/public
+/src-tauri
+/.svelte-kit
+/.firebase
+/package
+.env
+.env.*
+!.env.example
+firebase.js
